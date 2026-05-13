@@ -55,6 +55,7 @@ plt.show()
 ## Output:
 ![decision tree classifier model](sam.png)
 <img width="586" height="553" alt="Screenshot 2026-05-13 103522" src="https://github.com/user-attachments/assets/05e522c4-73e9-4a0e-8c6a-b9d63c68232e" />
+Output:
 <img width="1257" height="639" alt="Screenshot 2026-05-13 103611" src="https://github.com/user-attachments/assets/4e3c18a8-1adc-43e5-9cfd-2d8cbea1f83f" />
 
 
